@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package co.aospa.framework.preference;
+package co.p404.framework.preference;
 
 import android.content.ContentResolver;
 import android.preference.PreferenceDataStore;

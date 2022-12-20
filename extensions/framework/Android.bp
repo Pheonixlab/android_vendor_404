@@ -13,7 +13,7 @@
 // limitations under the License.
 
 android_library {
-    name: "co.aospa.framework",
+    name: "co.p404.framework",
     srcs: ["src/**/*.java"],
     static_libs: [
         "androidx.preference_preference",
