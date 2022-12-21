@@ -1,5 +1,5 @@
 android_app_import {
-    name: "AbleMusic",
+    name: "Metro",
 
     certificate: "platform",
     dex_preopt: {
@@ -8,6 +8,6 @@ android_app_import {
     overrides: ["SnapdragonMusic"],
 
     compile_multilib: "both",
-    apk: "app/AbleMusic.apk",
+    apk: "app/Metro.apk",
 
 }

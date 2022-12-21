@@ -47,7 +47,7 @@ PRODUCT_PACKAGES += \
     P404Launcher \
     Covers \
     ThemePicker \
-    AbleMusic \
+    Metro \
     Updater \
     Camera \
     RepainterServicePriv
@@ -55,6 +55,10 @@ PRODUCT_PACKAGES += \
 # SystemUI plugins
 PRODUCT_PACKAGES += \
     QuickAccessWallet
+
+# GameSpace
+PRODUCT_PACKAGES += \
+    GameSpace
 
 # Framework detect libs
 PRODUCT_PACKAGES += \
